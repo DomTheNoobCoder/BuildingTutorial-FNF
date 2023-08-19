@@ -1,5 +1,5 @@
 haxelib install lime 8.0.1
-haxelib install openfl
+haxelib install openfl 9.2.1
 haxelib install flixel 5.2.2
 haxelib run lime setup flixel
 haxelib install flixel-addons 3.0.2
