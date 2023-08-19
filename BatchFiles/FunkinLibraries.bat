@@ -2,6 +2,7 @@ haxelib install lime 7.9.0
 haxelib install openfl
 haxelib install hscript
 haxelib install actuate
+haxelib install newgrounds 1.1.5
 haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit.git
 haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git faxe https://github.com/uhrobots/faxe
