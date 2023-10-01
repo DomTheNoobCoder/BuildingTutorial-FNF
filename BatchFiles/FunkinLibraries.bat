@@ -1,4 +1,3 @@
-haxelib install lime 7.9.0
 haxelib install openfl
 haxelib install hscript
 haxelib install actuate
